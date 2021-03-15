@@ -42,6 +42,10 @@ about:
 # Contact settings
 contact:
   title: Contact Me
+  
+# Portfolio settings
+portfolio:
+  title: Portfolio
 
 # Footer settings
 footer:
