@@ -69,7 +69,7 @@ social-list:
 address: 3481 Melrose Place, Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme and made with love.'
+credits: 'Freelancer is a free to use, open source theme, created by Start Bootstrap.'
 
 # Build settings
 markdown: kramdown
