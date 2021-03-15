@@ -1,4 +1,5 @@
 ---
+title: Circus
 layout: default
 modal-id: 3
 date: April 2014
