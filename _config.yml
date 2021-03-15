@@ -38,6 +38,10 @@ about:
   second-description: Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point! 
   button-url: https://github.com/jeromelachaud/freelancer-theme
   button-text: Download Theme
+  
+# Contact settings
+contact:
+  title: Contact Me
 
 # Footer settings
 footer:
