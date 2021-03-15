@@ -379,7 +379,7 @@ footer .footer-below {
     display: inline-block;
     width: 100px;
     height: 100px;
-    border: 3px solid #{{ site.color.primary }};
+    border: 4px solid #{{ site.color.primary }};
     border-radius: 100%;
     text-align: center;
     font-size: 40px;
@@ -394,7 +394,7 @@ footer .footer-below {
 
 .social-outline {
     margin-top: 30px;
-    border: solid 2px #{{ site.color.primary }};
+    border: solid 4px #{{ site.color.primary }};
     font-size: 40px;
     color: #{{ site.color.primary }};
     background: 0 0;
@@ -405,7 +405,7 @@ footer .footer-below {
 .social-outline:focus,
 .social-outline:active,
 .social-outline.active {
-    border: solid 2px #{{ site.color.primary }};
+    border: solid 4px #{{ site.color.primary }};
     color: #fff;
     background: #{{ site.color.primary }};
 }
